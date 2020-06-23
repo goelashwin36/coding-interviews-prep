@@ -1,6 +1,11 @@
 
 /*
+ * Author: Ashwin Goel
+ */
+
+/*
 https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+
 Iterate in Right, Root, Left
 
 As mentioned, we need to modify val of every node such that it has a value equal

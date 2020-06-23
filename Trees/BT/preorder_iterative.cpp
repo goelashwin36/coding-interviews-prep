@@ -1,8 +1,13 @@
-// https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/
 /*
+ * Author: Ashwin Goel
+ */
+
+/*
+https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/
+
 Preorder: Root Left Right
 
-The algorithm is simple:
+Algorithm:
 
 1. If there is a left node then add it to the stack then move to left
 2. If left node is NULL then

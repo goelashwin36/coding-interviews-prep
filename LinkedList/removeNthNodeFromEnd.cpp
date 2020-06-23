@@ -1,6 +1,7 @@
+// https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
 #include <bits/stdc++.h>
 using namespace std;
-
 struct ListNode {
   int val;
   ListNode *next;
@@ -8,12 +9,6 @@ struct ListNode {
   ListNode(int x) : val(x), next(nullptr) {}
   ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
-
-static int __ = []() {
-  cin.tie(0);
-  std::ios::sync_with_stdio(false);
-  return 0;
-}();
 
 class Solution {
 public:

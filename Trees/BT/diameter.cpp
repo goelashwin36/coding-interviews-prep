@@ -1,4 +1,8 @@
 /*
+ * Author: Ashwin Goel
+ */
+
+/*
 https://leetcode.com/problems/diameter-of-binary-tree/
 We need to find the longest path betweek any two nodes in a tree.
           1

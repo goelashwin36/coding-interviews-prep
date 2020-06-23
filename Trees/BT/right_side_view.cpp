@@ -1,3 +1,7 @@
+/*
+ * Author: Ashwin Goel
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -10,12 +14,6 @@ struct TreeNode {
   TreeNode(int x, TreeNode *left, TreeNode *right)
       : val(x), left(left), right(right) {}
 };
-
-static int __ = []() {
-  cin.tie(0);
-  std::ios::sync_with_stdio(false);
-  return 0;
-}();
 
 /*
 

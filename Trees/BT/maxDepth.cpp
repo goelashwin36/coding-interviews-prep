@@ -1,4 +1,8 @@
 /*
+ * Author: Ashwin Goel
+ */
+
+/*
 https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/
 We simply find height of the tree at every node and return it.
 The height at any node is found by calculating the heights of the left and the

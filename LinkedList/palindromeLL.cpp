@@ -1,19 +1,10 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-struct ListNode {
-  int val;
-  ListNode *next;
-  ListNode(int x) : val(x), next(NULL) {}
-};
-
-static int __ = []() {
-  cin.tie(0);
-  std::ios::sync_with_stdio(false);
-  return 0;
-}();
+/*
+ * Author: Ashwin Goel
+ */
 
 /*
+https://leetcode.com/problems/palindrome-linked-list/
+
 This problem can be thought as a combination of two standard problems of LL.
 1. Finding middle element of LL
 2. Reversing a LL
@@ -24,9 +15,16 @@ First we find the middle element of the LL
 The reverse the LL from the middle element
 Now we iterate from the starting to middle and middle to end of reversed LL
 We can simply check if corresponding values are same or not
-
-
 */
+
+#include <bits/stdc++.h>
+using namespace std;
+
+struct ListNode {
+  int val;
+  ListNode *next;
+  ListNode(int x) : val(x), next(NULL) {}
+};
 class Solution {
 public:
   // Reverse the linkedlist from the middle and check again

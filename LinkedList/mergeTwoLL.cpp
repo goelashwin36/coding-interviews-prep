@@ -15,12 +15,6 @@ struct ListNode {
   ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
-static int __ = []() {
-  cin.tie(0);
-  std::ios::sync_with_stdio(false);
-  return 0;
-}();
-
 class Solution {
 public:
   ListNode *mergeTwoLists(ListNode *l1, ListNode *l2) {
