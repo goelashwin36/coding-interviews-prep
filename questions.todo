@@ -1,4 +1,4 @@
-SDE-PROBLEMS
+CODING-INTERVIEW-PROBLEMS
 ☐ Array
     ☐ Find the duplicate in an array of N integers.
     ☐ Sort an array of 0’s 1’s 2’s without using extra space or sorting algo
@@ -12,7 +12,7 @@ SDE-PROBLEMS
     ☐ Inversion of Array (Using Merge Sort)
     ☐ Stock Buy and Sell
     ☐ Rotate Matrix
-    ☐ Heap Sort
+    ✔ Heap Sort @done(20-06-28 13:00)
     ☐ Merge Sort
     ☐ Quick Sort
 ☐ Maths
@@ -157,9 +157,10 @@ SDE-PROBLEMS
     ☐ K-th largest element in an unsorted array.
     ✔ Flood-fill Algorithm @done(20-06-23 11:14)
 ☐ Graph
+    ☐ Design
     ☐ Clone a graph (Not that easy as it looks)
-    ☐ DFS
-    ☐ BFS
+    ✔ DFS @done(20-06-29 13:38)
+    ✔ BFS @done(20-06-29 13:38)
     ☐ Detect A cycle in Undirected Graph/Directed Graph
     ☐ Topo Sort
     ☐ Number of islands (Do in Grid and Graph both)
