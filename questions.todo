@@ -162,7 +162,7 @@ CODING-INTERVIEW-PROBLEMS
     ✔ DFS @done(20-06-29 13:38)
     ✔ BFS @done(20-06-29 13:38)
     ☐ Detect A cycle in Undirected Graph/Directed Graph
-    ☐ Topo Sort
+    ☐ Topological Sort
     ☐ Number of islands (Do in Grid and Graph both)
     ☐ Bipartite Check
     ☐ SCC(using KosaRaju’s algo)
@@ -173,8 +173,8 @@ CODING-INTERVIEW-PROBLEMS
     ☐ MST using Kruskal’s Algo
 ☐ Dynamic Programming
     ☐ Max Product Subarray
-    ☐ Longest Increasing Subsequence
-    ☐ Longest Common Subsequence
+    ✔ Longest Increasing Subsequence @done(20-07-05 15:41)  @addExplanation
+    ✔ Longest Common Subsequence  @done(20-07-05 17:49) @addExplanation
     ☐ 0-1 Knapsack
     ☐ Edit Distance
     ☐ Maximum sum increasing subsequence
