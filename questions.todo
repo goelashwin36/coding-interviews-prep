@@ -4,22 +4,22 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Sort an array of 0’s 1’s 2’s without using extra space or sorting algo
     ☐ Repeat and Missing Number
     ☐ Merge two sorted Arrays without extra space
-    ☐ Kadane’s Algorithm
+    ☐ Kadane’s Algorithm @high
     ☐ Merge Overlapping Subintervals
     ☐ Set Matrix Zeros
     ☐ Pascal Triangle
     ☐ Next Permutation
     ☐ Inversion of Array (Using Merge Sort)
-    ☐ Stock Buy and Sell
+    ☐ Stock Buy and Sell @high
     ☐ Rotate Matrix
     ✔ Heap Sort @done(20-06-28 13:00)
-    ☐ Merge Sort
-    ☐ Quick Sort
+    ☐ Merge Sort @high
+    ☐ Quick Sort @high
 ☐ Maths
     ☐ Excel Column Number
-    ☐ Find n^x in log N
+    ☐ Find n^x in log N @high
     ☐ Count trailing zeros in factorial of a number
-    ☐ Find GCD in Log N
+    ☐ Find GCD in Log N @high
     ☐ Grid Unique Paths
     ☐ Go through Puzzles from GFG (Search on own)
 ☐ Hashing
@@ -126,12 +126,12 @@ CODING-INTERVIEW-PROBLEMS
     ✔ Height of a Binary Tree @done(20-06-20 01:06)
     ✔ Diameter of Binary Tree @done(20-06-20 16:50)
     ☐ Check if Binary tree is height balanced or not
-    ☐ LCA in Binary Tree
+    ☐ LCA in Binary Tree @high
     ☐ Check if two trees are identical or not
     ☐ Maximum width of Binary Tree
     ☐ Maximum path sum
-    ☐ Construct Binary Tree from inorder and preorder
-    ☐ Construct Binary Tree from Inorder and Postorder
+    ☐ Construct Binary Tree from inorder and preorder @high
+    ☐ Construct Binary Tree from Inorder and Postorder @high
     ☐ Symmetric Binary Tree
     ☐ Flatten Binary Tree to LinkedList
     ☐ Check if Binary Tree is mirror of itself or not
@@ -162,19 +162,19 @@ CODING-INTERVIEW-PROBLEMS
     ✔ DFS @done(20-06-29 13:38)
     ✔ BFS @done(20-06-29 13:38)
     ☐ Detect A cycle in Undirected Graph/Directed Graph
-    ☐ Topological Sort
+    ✔ Topological Sort @done(20-07-09 01:57)
     ☐ Number of islands (Do in Grid and Graph both)
     ☐ Bipartite Check
     ☐ SCC(using KosaRaju’s algo)
-    ☐ Djisktra’s Algorithm
-    ☐ Bellman Ford Algo
-    ☐ Floyd Warshall Algorithm
+    ✔ Djisktra’s Algorithm(SSSP) @done(20-07-09 01:57)
+    ✔ Bellman Ford Algo(SSSP) @done(20-07-09 01:58)
+    ✔ Floyd Warshall Algorithm(APSP) @done(20-07-09 01:58)
     ☐ MST using Prim’s Algo
     ☐ MST using Kruskal’s Algo
 ☐ Dynamic Programming
     ☐ Max Product Subarray
-    ✔ Longest Increasing Subsequence @done(20-07-05 15:41)  @addExplanation
-    ✔ Longest Common Subsequence  @done(20-07-05 17:49) @addExplanation
+    ✔ Longest Increasing Subsequence @done(20-07-05 15:41)  @TODO:addExplanation
+    ✔ Longest Common Subsequence  @done(20-07-05 17:49) @TODO:addExplanation
     ☐ 0-1 Knapsack
     ☐ Edit Distance
     ☐ Maximum sum increasing subsequence
@@ -186,3 +186,6 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Egg Dropping
     ☐ Word Break
     ☐ Palindrome Partitioning (MCM Variation)
+ ☐ Tries
+    ✔ Design @TODO:addDeleteFunction @done(20-07-09 02:00)
+    ✔ Implement phonebook @done(20-07-09 01:57)
