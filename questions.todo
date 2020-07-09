@@ -4,17 +4,17 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Sort an array of 0’s 1’s 2’s without using extra space or sorting algo
     ☐ Repeat and Missing Number
     ☐ Merge two sorted Arrays without extra space
-    ☐ Kadane’s Algorithm @high
+    ☐ Kadane’s Algorithm @high @today
     ☐ Merge Overlapping Subintervals
     ☐ Set Matrix Zeros
     ☐ Pascal Triangle
     ☐ Next Permutation
     ☐ Inversion of Array (Using Merge Sort)
-    ☐ Stock Buy and Sell @high
+    ✔ Stock Buy and Sell  @done(20-07-10 02:36)
     ☐ Rotate Matrix
     ✔ Heap Sort @done(20-06-28 13:00)
-    ☐ Merge Sort @high
-    ☐ Quick Sort @high
+    ☐ Merge Sort @high @today
+    ☐ Quick Sort @high @today
 ☐ Maths
     ☐ Excel Column Number
     ☐ Find n^x in log N @high
@@ -45,7 +45,7 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Detect a cycle and removing loop(two different questions and same concept)
     ☐ Flattening of a LinkedList
     ☐ Rotate a LinkedList
-    ☐ Clone a Linked List with random and next pointer. @high
+    ✔ Clone a Linked List with random and next pointer.  @TODO:addExplanation @done(20-07-10 00:52)
 ☐ 2-pointer
     ☐ Merge two sorted LinkedLists
     ☐ Find the starting point of the loop.
@@ -126,12 +126,12 @@ CODING-INTERVIEW-PROBLEMS
     ✔ Height of a Binary Tree @done(20-06-20 01:06)
     ✔ Diameter of Binary Tree @done(20-06-20 16:50)
     ☐ Check if Binary tree is height balanced or not
-    ☐ LCA in Binary Tree @high
+    ✔ LCA in Binary Tree  @today @TODO:addExplanation @done(20-07-10 02:34)
     ☐ Check if two trees are identical or not
     ☐ Maximum width of Binary Tree
     ☐ Maximum path sum
-    ☐ Construct Binary Tree from inorder and preorder @high
-    ☐ Construct Binary Tree from Inorder and Postorder @high
+    ☐ Construct Binary Tree from inorder and preorder @high @today
+    ☐ Construct Binary Tree from Inorder and Postorder @high @today
     ☐ Symmetric Binary Tree
     ☐ Flatten Binary Tree to LinkedList
     ☐ Check if Binary Tree is mirror of itself or not
@@ -152,9 +152,9 @@ CODING-INTERVIEW-PROBLEMS
 ☐ Mixed Questions
     ☐ Binary Tree to Double Linked List
     ☐ Find median in a stream of running integers.
-    ☐ K-th largest element in a stream.(Using Heaps)
+    ✔ K-th largest element in a stream.(Using Heaps) @done(20-07-10 03:02)
     ☐ Distinct numbers in Window.
-    ☐ K-th largest element in an unsorted array.
+    ✔ K-th largest element in an unsorted array. @done(20-07-10 03:03)
     ✔ Flood-fill Algorithm @done(20-06-23 11:14)
 ☐ Graph
     ☐ Design
