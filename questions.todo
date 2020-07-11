@@ -130,8 +130,8 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Check if two trees are identical or not
     ☐ Maximum width of Binary Tree
     ☐ Maximum path sum
-    ☐ Construct Binary Tree from inorder and preorder @high @today
-    ☐ Construct Binary Tree from Inorder and Postorder @high @today
+    ✔ Construct Binary Tree from inorder and preorder @high @done(20-07-12 02:19) @TODO:addExplanation
+    ✔ Construct Binary Tree from Inorder and Postorder @high @done(20-07-12 02:20) @TODO:addExplanation
     ☐ Symmetric Binary Tree
     ☐ Flatten Binary Tree to LinkedList
     ☐ Check if Binary Tree is mirror of itself or not
@@ -189,3 +189,15 @@ CODING-INTERVIEW-PROBLEMS
  ☐ Tries
     ✔ Design @TODO:addDeleteFunction @done(20-07-09 02:00)
     ✔ Implement phonebook @done(20-07-09 01:57)
+
+
+
+☐ DBMS
+    ☐ What is DBMS? Advantages over file system?
+    ☐ Relational vs Non Relational, Examples, Which is preferred
+    ☐
+    ☐ ACID Properties
+    ☐ Types of Keys(Super/Candidate/Alternate/Primary)
+    ☐ ER Diagrams, Cardinality
+    ☐ Anomalies in Relational Model(Insert/Update/Delete)
+    ☐ Normalization

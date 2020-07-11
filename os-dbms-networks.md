@@ -13,3 +13,9 @@
 ## Operating Systems
 
 ## Database Management Systems
+
+- [DBMS Interview Questions Set-1](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions/)
+
+- [DBMS Interview Questions Set-2](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions-set-2/)
+
+- [Top 30 DBMS Questions](https://www.softwaretestinghelp.com/top-dbms-interview-questions/)
