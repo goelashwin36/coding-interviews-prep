@@ -19,20 +19,20 @@ class Graph {
 public:
   Graph(int v){
       V = v;
-  }; // Constructor
+  };
 
   void addEdge(int src, int dest, int wt) {
     l[src].push_back(mp(wt, dest));
   }
 
   void constructMatrix(){
-	  
+
 	  memset(dpSP, INF, sizeof(dpSP));
 	  memset(next, -1, sizeof(next));
 
 	  for(auto node:l){
 		  dpSP[node.first][node.first] = 0;
-		  
+
 		for(auto nbr: node.second){
 			dpSP[nbr.second][nbr.second] = 0;
 			dpSP[node.first][nbr.second] = nbr.first;
@@ -57,7 +57,7 @@ public:
 			}
 		}
 		//TODO: Add check for negative cycle
-		
+
 		cout<<"From  To  Cost\n";
 
 		for(int i=0; i<V; i++){
@@ -68,7 +68,7 @@ public:
 				else{
 					cout<<i<<"     "<<j<<"    "<<dpSP[i][j]<<endl;
 				}
-				
+
 			}
 		}
   }
@@ -86,4 +86,3 @@ int main() {
   g.floyd();
   return 0;
 }
-

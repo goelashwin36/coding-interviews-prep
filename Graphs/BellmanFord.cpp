@@ -18,10 +18,9 @@ class Graph {
 public:
   Graph(int v){
       V = v;
-  }; // Constructor
+  };
 
   void addEdge(T src, T dest, int wt) {
-    // For undirected
     l[src].push_back(mp(wt, dest));
   }
 
