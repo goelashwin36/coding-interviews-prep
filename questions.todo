@@ -13,8 +13,8 @@ CODING-INTERVIEW-PROBLEMS
     ✔ Stock Buy and Sell  @done(20-07-10 02:36)
     ☐ Rotate Matrix
     ✔ Heap Sort @done(20-06-28 13:00)
-    ☐ Merge Sort @high @today
-    ☐ Quick Sort @high @today
+    ✔ Merge Sort  @done(20-08-11 14:31)
+    ✔ Quick Sort @done(20-08-11 18:21)
 ☐ Maths
     ☐ Excel Column Number
     ☐ Find n^x in log N @high
@@ -191,11 +191,9 @@ CODING-INTERVIEW-PROBLEMS
     ✔ Implement phonebook @done(20-07-09 01:57)
 
 
-
 ☐ DBMS
     ☐ What is DBMS? Advantages over file system?
     ☐ Relational vs Non Relational, Examples, Which is preferred
-    ☐
     ☐ ACID Properties
     ☐ Types of Keys(Super/Candidate/Alternate/Primary)
     ☐ ER Diagrams, Cardinality
