@@ -19,19 +19,16 @@ public:
   void maxHeapify(vector<int> &heap, int root, int end) {
     int lchild = 2 * root + 1;
     int rchild = 2 * root + 2;
-
     int maximum = root;
 
     if (lchild <= end && heap[lchild] > heap[maximum]) {
       maximum = lchild;
     }
-
     if (rchild <= end && heap[rchild] > heap[maximum]) {
       maximum = rchild;
     }
     if (maximum != root) {
       swap(heap[root], heap[maximum]);
-
       maxHeapify(heap, maximum, end);
     }
   }
