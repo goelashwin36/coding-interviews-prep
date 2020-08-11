@@ -135,6 +135,7 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Symmetric Binary Tree
     ☐ Flatten Binary Tree to LinkedList
     ☐ Check if Binary Tree is mirror of itself or not
+    ✔ Is Subtree of Another Tree @done(20-08-11 23:03)
 ☐ Binary Search Tree
     ✔ Design BST(Search/Insert/Delete) @done(20-06-23 10:51)
     ☐ Populate Next Right pointers of Tree
@@ -171,6 +172,7 @@ CODING-INTERVIEW-PROBLEMS
     ✔ Floyd Warshall Algorithm(APSP) @done(20-07-09 01:58)
     ☐ MST using Prim’s Algo
     ☐ MST using Kruskal’s Algo
+    ✔ Articulation point @done(20-08-11 18:23)
 ☐ Dynamic Programming
     ☐ Max Product Subarray
     ✔ Longest Increasing Subsequence @done(20-07-05 15:41)  @TODO:addExplanation
