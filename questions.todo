@@ -1,10 +1,12 @@
 CODING-INTERVIEW-PROBLEMS
 ☐ Array
+    ✔ Subarray with given sum @done(20-08-17 12:49)
+    ☐ Count the triplets @critical
     ☐ Find the duplicate in an array of N integers.
     ☐ Sort an array of 0’s 1’s 2’s without using extra space or sorting algo
     ☐ Repeat and Missing Number
-    ☐ Merge two sorted Arrays without extra space
-    ☐ Kadane’s Algorithm @high @today
+    ☐ Merge two sorted Arrays without extra space @critical
+    ✔ Kadane’s Algorithm @done(20-08-17 12:49)
     ☐ Merge Overlapping Subintervals
     ☐ Set Matrix Zeros
     ☐ Pascal Triangle
@@ -19,7 +21,7 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Excel Column Number
     ☐ Find n^x in log N @high
     ☐ Count trailing zeros in factorial of a number
-    ☐ Find GCD in Log N @high
+    ✔ Find GCD in Log N @high @done(20-08-16 22:37)
     ☐ Grid Unique Paths
     ☐ Go through Puzzles from GFG (Search on own)
 ☐ Hashing
