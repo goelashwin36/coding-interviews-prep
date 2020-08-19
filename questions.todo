@@ -104,7 +104,7 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Rotten Orange (Using BFS)
 ☐ String
     ☐ Reverse Words in a String
-    ☐ Longest Palindrome in a string
+    ✔ Longest Palindromic substring @done(20-08-19 03:38)
     ☐ Roman Number to Integer and vice versa
     ☐ Implement ATOI/STRSTR
     ☐ Longest Common Prefix
@@ -115,6 +115,7 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Check for Anagrams
     ☐ Count and Say
     ☐ Compare version numbers
+    ✔ Print all permutations @done(20-08-19 02:21)
     ☐ Z Algorithm
 ☐ Binary Tree
     ✔ Inorder Traversal (with recursion and without recursion) @done(20-06-19 12:35)
