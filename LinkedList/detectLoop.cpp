@@ -30,6 +30,9 @@ The same approach we use here. Use two pointers: slow and fast
 
 Slow pointer moves 1 node at a time
 Fast pointer moves 2 nodes at a time
+
+Finally, if the LL has any loop, then both the pointers will be equal later while iterating.
+
 */
 
 #include <iostream>
