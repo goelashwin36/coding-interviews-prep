@@ -23,3 +23,18 @@
 -   [DBMS Interview Questions Set-2](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions-set-2/)
 
 -   [Top 30 DBMS Questions](https://www.softwaretestinghelp.com/top-dbms-interview-questions/)
+
+
+## System Design
+
+- [System Design by Gaurav Sen(Best resource to start with)](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+
+- [Whatsapp System Design](https://www.youtube.com/watch?v=vvhC64hQZMk)
+
+- [Netflix System Design](https://www.youtube.com/watch?v=x9Hrn0oNmJM)
+
+- [Instagram System Design](https://www.youtube.com/watch?v=QmX2NPkJTKg)
+
+- [Tinder System Design](https://www.youtube.com/watch?v=tndzLznxq40)
+
+- [UBER System Design](https://www.youtube.com/watch?v=umWABit-wbk&feature=youtu.be)
