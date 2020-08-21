@@ -91,8 +91,6 @@ struct Node
     }
 };
 
-//TODO: Complete the Code
-
 void removeLoop(Node *head)
 {
     if (!head || !head->next)
@@ -107,20 +105,25 @@ void removeLoop(Node *head)
         slow = slow->next;
     } while (slow != fast && (fast && fast->next));
 
+    // At this point, fast == slow pointer
+    //Removing loop
     if (fast && fast->next)
     {
-        // At this point, fast == slow pointer
+
         slow = head;
 
+        //Finding loop starting point
         while (slow != fast)
         {
             slow = slow->next;
             fast = fast->next;
         }
+        //Pointing fast pointer to last node of the loop
         while (fast->next != slow)
         {
             fast = fast->next;
         }
+        //Removing the loop
         fast->next = NULL;
     }
     return;
