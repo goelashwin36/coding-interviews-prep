@@ -46,7 +46,7 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Reverse a LinkedList in groups.
     ☐ Cycle
         ✔ Detect Cycle @done(20-08-20 03:48)
-        ☐ Remove Cycle
+        ✔ Remove Cycle @done(20-08-22 00:14)
     ☐ Flattening of a LinkedList
     ☐ Rotate a LinkedList
     ✔ Pairwise Swap Nodes @done(20-08-20 17:10)
