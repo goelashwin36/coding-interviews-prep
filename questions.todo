@@ -132,15 +132,15 @@ CODING-INTERVIEW-PROBLEMS
     ✔ Height of a Binary Tree @done(20-06-20 01:06)
     ✔ Diameter of Binary Tree @done(20-06-20 16:50)
     ✔ Check if Binary tree is height balanced or not @done(20-08-20 20:35)
-    ✔ LCA in Binary Tree  @today @TODO:addExplanation @done(20-07-10 02:34)
+    ✔ LCA in Binary Tree   @TODO:addExplanation @done(20-07-10 02:34)
     ☐ Check if two trees are identical or not
     ☐ Maximum width of Binary Tree
     ☐ Maximum path sum
         ✔ Between any two leaf nodes @done(20-08-22 01:19)
         ☐ Any root to leaf path
-        ☐ Any two nodes
-    ✔ Construct Binary Tree from inorder and preorder @high @done(20-07-12 02:19) @TODO:addExplanation
-    ✔ Construct Binary Tree from Inorder and Postorder @high @done(20-07-12 02:20) @TODO:addExplanation
+        ✔ Any two nodes @done(20-08-22 02:02)
+    ✔ Construct Binary Tree from inorder and preorder @done(20-07-12 02:19) @TODO:addExplanation
+    ✔ Construct Binary Tree from Inorder and Postorder @done(20-07-12 02:20) @TODO:addExplanation
     ✔ Symmetric Binary Tree @done(20-08-22 00:35)
     ☐ Flatten Binary Tree to LinkedList
     ☐ Check if Binary Tree is mirror of itself or not
