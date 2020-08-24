@@ -133,7 +133,7 @@ CODING-INTERVIEW-PROBLEMS
     ✔ Diameter of Binary Tree @done(20-06-20 16:50)
     ✔ Check if Binary tree is height balanced or not @done(20-08-20 20:35)
     ✔ LCA in Binary Tree   @TODO:addExplanation @done(20-07-10 02:34)
-    ☐ Check if two trees are identical or not
+    ✔ Check if two trees are identical or not @done(20-08-24 15:51)
     ☐ Maximum width of Binary Tree
     ☐ Maximum path sum
         ✔ Between any two leaf nodes @done(20-08-22 01:19)
@@ -145,6 +145,7 @@ CODING-INTERVIEW-PROBLEMS
     ☐ Flatten Binary Tree to LinkedList
     ☐ Check if Binary Tree is mirror of itself or not
     ✔ Is Subtree of Another Tree @done(20-08-11 23:03)
+    ✔ Count number of nodes @done(20-08-24 15:37)
 ☐ Binary Search Tree
     ✔ Design BST(Search/Insert/Delete) @done(20-06-23 10:51)
     ☐ Populate Next Right pointers of Tree
