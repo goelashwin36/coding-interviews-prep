@@ -95,7 +95,7 @@ CODING-INTERVIEW-PROBLEMS
 ☐ Stack and Queue
     ☐ Implement Stack / Implement Queue
     ☐ BFS
-    ☐ Implement Stack using Queue
+    ✔ Implement Stack using Queue @done(20-08-26 02:18)
     ✔ Implement Queue using Stack @done(20-08-26 01:53)
     ☐ Check for balanced parentheses
     ☐ Next Greater Element
