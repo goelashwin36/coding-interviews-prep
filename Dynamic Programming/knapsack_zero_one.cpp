@@ -16,7 +16,8 @@ using namespace std;
 int dp[1010][1010];
 int T, N, W;
 
-int findMaxProfit(int w, int idx, int wt[], int v[])
+//Recursive Method
+int findMaxProfitRecursive(int w, int idx, int wt[], int v[])
 {
     if (idx >= N)
         return 0;
@@ -26,10 +27,32 @@ int findMaxProfit(int w, int idx, int wt[], int v[])
 
     if (wt[idx] <= w)
         //Two options: Take or don't take
-        return dp[idx][w] = max(findMaxProfit(w, idx + 1, wt, v), v[idx] + findMaxProfit(w - wt[idx], idx + 1, wt, v));
+        return dp[idx][w] = max(findMaxProfitRecursive(w, idx + 1, wt, v), v[idx] + findMaxProfitRecursive(w - wt[idx], idx + 1, wt, v));
     else
         //Don't take
-        return dp[idx][w] = findMaxProfit(w, idx + 1, wt, v);
+        return dp[idx][w] = findMaxProfitRecursive(w, idx + 1, wt, v);
+}
+
+int findMaxProfitIterative(int W, int N, int wt[], int v[])
+{
+    memset(dp, 0, sizeof(dp));
+
+    for (int i = 1; i <= N; i++)
+    {
+        for (int w = 1; w <= W; w++)
+        {
+            if (wt[i - 1] > w)
+            {
+                dp[i][w] = dp[i - 1][w];
+            }
+            else
+            {
+                dp[i][w] = max(dp[i - 1][w - wt[i - 1]] + v[i - 1], dp[i - 1][w]);
+            }
+        }
+    }
+
+    return dp[N][W];
 }
 
 int main()
@@ -38,7 +61,7 @@ int main()
 
     while (T--)
     {
-        memset(dp, -1, sizeof(dp));
+
         cin >> N >> W;
         int wt[N], v[N];
 
@@ -50,7 +73,13 @@ int main()
         {
             cin >> wt[idx];
         }
-        cout << findMaxProfit(W, 0, wt, v) << endl;
+
+        memset(dp, -1, sizeof(dp));
+        //Calculating Recursive way
+        cout << findMaxProfitRecursive(W, 0, wt, v) << endl;
+
+        //Calculating Iterative Way
+        cout << findMaxProfitIterative(W, N, wt, v) << endl;
     }
     return 0;
 }
