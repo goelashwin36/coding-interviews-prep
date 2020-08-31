@@ -189,6 +189,12 @@ CODING-INTERVIEW-PROBLEMS
     ✔ Longest Increasing Subsequence @done(20-07-05 15:41)  @TODO:addExplanation
     ✔ Longest Common Subsequence  @done(20-07-05 17:49) @TODO:addExplanation
     ✔ 0-1 Knapsack @done(20-08-29 01:38)
+        ☐ Subset Sum Probem
+        ✔ Equal Subset Sum Partition Problem @done(20-08-30 17:10)
+        ☐ Count of Subset Sum
+        ☐ Target Sum
+        ☐ Minimum Subset Sum Difference
+
     ☐ Edit Distance
     ☐ Maximum sum increasing subsequence
     ☐ Matrix Chain Multiplication
